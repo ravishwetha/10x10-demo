@@ -2,6 +2,8 @@
 
 https://tenxten-frontend-demo.herokuapp.com
 
+FYP DEMO only: http://1010-frontend-20190325175627-hostingbucket-dev.s3-website-ap-southeast-1.amazonaws.com/
+
 username: demo
 
 password: demo
